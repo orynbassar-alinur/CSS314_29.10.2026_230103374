@@ -1,0 +1,10 @@
+{
+    "kernel": "2D 5-point stencil",
+    "matrix_size": 1216,
+    "flops_per_element": 5,
+    "bytes_per_element": 48,
+    "arithmetic_intensity": 0.10416666666666667,
+    "arithmetic_intensity_unit": "FLOP/byte",
+    "classification": "Likely Memory-Bandwidth Bound",
+    "note": "Low arithmetic intensity suggests memory bandwidth limitation. Actual classification requires measured or documented hardware bandwidth and peak FLOPS."
+}

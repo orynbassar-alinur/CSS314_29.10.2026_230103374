@@ -1,0 +1,30 @@
+{
+    "student_id": "30103374",
+    "cpu_model": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+    "physical_cores": 8,
+    "logical_threads": 16,
+    "cache_line_bytes": 64,
+    "cpu": {
+        "processor": "AMD Ryzen 7 6800H with Radeon Graphics         ",
+        "manufacturer": "AuthenticAMD",
+        "architecture": "AMD64",
+        "physical_cores": 8,
+        "logical_cores": 16,
+        "smt_enabled": true,
+        "cpu_frequency_mhz": 3201.0,
+        "microarchitecture": "Unknown",
+        "l1_cache_kb": 512,
+        "l2_cache_kb": 4096,
+        "l3_cache_kb": 16384,
+        "cache_line_size_bytes": 64
+    },
+    "system": {
+        "os": "Windows",
+        "os_version": "10.0.26200",
+        "kernel": "11",
+        "python_version": "3.14.3",
+        "python_implementation": "CPython",
+        "python_executable": "C:\\Users\\orynb\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+        "total_ram_gb": 15.25
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "matrix_size": 608,
+    "naive_time_s": 0.158562499999789,
+    "interchanged_time_s": 0.030994799999916722,
+    "naive_times": [
+        0.27370399999972506,
+        0.1585098000000471,
+        0.158562499999789
+    ],
+    "optimized_times": [
+        0.161093499999879,
+        0.029002199999922595,
+        0.030994799999916722
+    ],
+    "median_naive_seconds": 0.158562499999789,
+    "median_optimized_seconds": 0.030994799999916722,
+    "speedup": 5.115777485262528,
+    "max_absolute_error": 0.0,
+    "correct": true
+}
